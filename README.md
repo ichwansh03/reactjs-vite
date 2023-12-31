@@ -11,3 +11,6 @@ Currently, two official plugins are available:
 * dengan vite, react akan jalan pada development.
 * untuk build app react, jalankan perintah pnpm run build
 * pada terminal, masuk ke folder dist/cd dist lalu jalankan file index.html dengan live server
+
+### Reference
+Visit docs in https://id.react.dev
